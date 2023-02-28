@@ -1,0 +1,12 @@
+mpm install nodemon --save-dev
+
+local ip is 127.0.0.1
+
+npm install express (for better)
+npm install install dotenv
+
+2 okay 
+3 redirecd 
+
+how to find :
+(something/name: = fruits/apple)
